@@ -8,13 +8,19 @@ This repository hosts the public release builds. The source code is maintained p
 
 ## Download
 
-Latest release: [Nodeskio IMS v0.3.0](https://github.com/utyagi005/IMS-Releases/releases/latest)
+Latest release: [Nodeskio IMS v0.6.0](https://github.com/utyagi005/IMS-Releases/releases/latest)
 
 Current macOS build:
 
-- [Nodeskio-IMS-0.3.0-arm64.dmg](https://github.com/utyagi005/IMS-Releases/releases/download/v0.3.0/Nodeskio-IMS-0.3.0-arm64.dmg) for Apple Silicon Macs
+- [Nodeskio-IMS-0.6.0-arm64.dmg](https://github.com/utyagi005/IMS-Releases/releases/download/v0.6.0/Nodeskio-IMS-0.6.0-arm64.dmg) for Apple Silicon Macs
 
 Packaging note: the macOS app is signed with an Apple Development identity. Notarization is not configured yet, so macOS Gatekeeper may require manual approval on first launch.
+
+## Product Demo
+
+[![Watch the Nodeskio IMS v0.6.0 demo](assets/demo-v0.6.0-poster.png)](https://github.com/utyagi005/IMS-Releases/releases/download/v0.6.0/Nodeskio-IMS-demo-v0.6.0.mp4)
+
+Watch the music-only v0.6.0 walkthrough: [Nodeskio IMS demo video](https://github.com/utyagi005/IMS-Releases/releases/download/v0.6.0/Nodeskio-IMS-demo-v0.6.0.mp4).
 
 ## Product Thesis
 
